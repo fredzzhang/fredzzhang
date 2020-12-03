@@ -1,17 +1,17 @@
-### Hi, It's Fred here 👋
+## Hi, It's Fred here 👋
 
 I'm currently a PhD student at the Australian National University, under the supervision of [Prof. Stephen Gould](http://users.cecs.anu.edu.au/~sgould/). My primary research interest is in localising and understanding human-object interactions, but I'm generally interested in all computer vision and machine learning topics.
 
-<img align="left" alt="Fred's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=fredzzhang&show_icons=true&hide_border=true&count_private=true&theme=blue-green&hide=contribs,prs" height="140"/>
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=fredzzhang&layout=compact&theme=blue-green" height="140"/>
+<img align="left" alt="Fred's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fredzzhang&show_icons=true&hide_border=true&count_private=true&theme=blue-green&hide=contribs,prs" height="140"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredzzhang&layout=compact&theme=blue-green" height="140"/>
 
 
-### Connect with me:
+## Connect with me:
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="FredericZhang | YouTube" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="FredericZhang | Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="FredericZhang | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="FredericZhang | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 [youtube]: https://www.youtube.com/channel/UCTtycgodYPRS6xtZsxJzdug
