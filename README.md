@@ -2,7 +2,7 @@
 
 I'm currently a PhD student at the Australian National University, under the supervision of [Prof. Stephen Gould](http://users.cecs.anu.edu.au/~sgould/). My primary research interest is in localising and understanding human-object interactions, but I'm generally interested in all computer vision and machine learning topics.
 
-<img align="left" alt="Fred's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fredzzhang&show_icons=true&hide_border=true&count_private=true&theme=vue&hide=contribs,prs" height="140"/>
+<img align="left" alt="Fred's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fredzzhang&show_icons=true&count_private=true&theme=vue&hide=contribs,prs" height="140"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredzzhang&layout=compact&theme=vue" height="140"/>
 
 
