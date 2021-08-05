@@ -1,6 +1,6 @@
 ## Hi, It's Fred(张真) here 👋
 
-I'm currently a PhD student at the Australian National University, under the supervision of [Prof. Stephen Gould](http://users.cecs.anu.edu.au/~sgould/). My primary research interest is in localising and understanding human-object interactions, but I'm generally interested in all computer vision and machine learning topics.
+I'm currently a PhD student at the Australian National University, working with [Prof. Stephen Gould](http://users.cecs.anu.edu.au/~sgould/). My primary research interest is in localising and understanding human-object interactions, but I'm generally interested in all computer vision and machine learning topics.
 
 <img align="left" alt="Fred's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fredzzhang&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true" height="170"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredzzhang&layout=compact&theme=chartreuse-dark&hide_border=true" height="170"/>
@@ -12,7 +12,6 @@ I'm currently a PhD student at the Australian National University, under the sup
 [<img align="left" alt="FredericZhang | Twitter" width="35px" src="https://user-images.githubusercontent.com/11484831/102576039-bc727300-4148-11eb-9b25-1d5dc283223d.png" />][twitter]
 [<img align="left" alt="FredericZhang | LinkedIn" width="35px" src="https://user-images.githubusercontent.com/11484831/102576050-c72d0800-4148-11eb-96bb-8c634bdfcb05.png" />][linkedin]
 [<img align="left" alt="FredericZhang | Instagram" width="35px" src="https://user-images.githubusercontent.com/11484831/102576056-d01dd980-4148-11eb-941b-7fba9b89feeb.png" />][instagram]
-
 
 [youtube]: https://www.youtube.com/channel/UCTtycgodYPRS6xtZsxJzdug
 [scholar]: https://scholar.google.com/citations?user=b1PQadgAAAAJ&hl=en
