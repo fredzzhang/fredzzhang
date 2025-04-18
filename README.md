@@ -1,6 +1,6 @@
 ## Hi, It's Fred(张真) here 👋
 
-I'm currently a postdoc at the Australian Institute for Machine Learning. Refer to my [homepage](https://fredzzhang.com/) for more details.
+I'm currently an applied scientist at Amazon, working on practical computer vision problems. Refer to my [homepage](https://fredzzhang.com/) for more details.
 
 <img align="left" alt="Fred's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fredzzhang&include_all_commits=true&hide=contribs&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true" height="150"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredzzhang&layout=compact&theme=chartreuse-dark&hide_border=true" height="150"/>
